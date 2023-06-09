@@ -1,12 +1,13 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "skipLibCheck": true,
+    "noImplicitAny": false,
     "inlineSourceMap": true,
     "inlineSources": true,
     "module": "ESNext",
     "target": "ES6",
     "allowJs": true,
-    "noImplicitAny": true,
     "moduleResolution": "node",
     "importHelpers": true,
     "isolatedModules": true,
