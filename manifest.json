@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-input",
-	"name": "Obsidian Input",
-	"version": "1.0.0",
+	"id": "tailor-made",
+	"name": "Tailor Made",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"description": "Allows for fine grain customization of your vault through JS",
+	"author": "Daniel Rustrum",
 	"isDesktopOnly": false
 }
